@@ -11,9 +11,9 @@ title                    : "Ashwin Balakrishna"
 title_separator          : "-"
 name                     : &name "Ashwin Balakrishna"
 description              : &description "personal description"
-url                      : "https://mjd3.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://abalakrishna123.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mjd3/mjd3.github.io"
+repository               : "abalakrishna123/abalakrishna123.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Michael Danielczuk"
+  name             : "Ashwin Balakrishna"
   avatar           : "photo.png"
-  bio              : "PhD Researcher in Robotic Manipulation @ UC Berkeley"
+  bio              : "PhD Researcher in Aritificial Intelligence n @ UC Berkeley"
   location         : "Berkeley, CA"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=1Tfui8UAAAAJ&hl=en"
-  email            : "mjd3@eecs.berkeley.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=tfN6V84AAAAJ&hl=en"
+  email            : "ashwin_balakrishna@eecs.berkeley.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mjd3"
+  github           : "abalakrishna123"
   google_plus      :
   keybase          :
   instagram        :
@@ -102,7 +102,7 @@ author:
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          :

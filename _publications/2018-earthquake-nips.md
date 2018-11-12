@@ -4,7 +4,7 @@ authors: 'Men-Andrin Meier, Zachary Ross, Anshul Ramachandran, Ashwin Balakrishn
 venue: 'NIPS 2018 Workshop'
 date: 2019-12-03
 category: 'published'
-pdf: '2018-earthquake-nps.pdf'
+pdf: '2018-earthquake-nips.pdf'
 teaser: '2018-earthquake-nips.png'
 permalink: /publication/2018-earthquake-nips
 collection: publications

@@ -1,7 +1,7 @@
 ---
 title: 'In vivo Intraocular Pressure Monitoring using Implantable Optomechanical Sensor'
 authors: Jeong Oen Lee, Haeri Park, Juan Du, Vinayak Narasimhan, Ashwin Balakrishna, Oliver Chen, David Stretavan, Hyuck Choo'
-venue: 'ISOT 2016 Invited Talk'
+venue: 'ISOT Invited Talk'
 date: 2016-06-05
 category: 'published'
 pdf: '2016-invivo-monitor'

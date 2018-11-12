@@ -1,7 +1,7 @@
 ---
 title: 'A microscale optical implant for continuous in vivo monitoring of intraocular pressure'
 authors: Jeong Oen Lee, Haeri Park, Juan Du, Ashwin Balakrishna, Oliver Chen, David Stretavan, Hyuck Choo'
-venue: '2016 IEEE 29th International Conference on Micro Electro Mechanical Systems (MEMS)'
+venue: 'IEEE 29th International Conference on Micro Electro Mechanical Systems (MEMS)'
 date: 2016-01-24
 category: 'published'
 pdf: '2016-energy-harvesting'

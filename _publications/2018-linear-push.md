@@ -1,17 +1,14 @@
 ---
-title: 'Linear Push Policies to Increase Grasp Access for Robot Bin Picking'
-authors: 'Michael Danielczuk, Jeffrey Mahler, Chris Correa, Ken Goldberg'
-venue: 'IEEE International Conference on Automation Science and Engineering (CASE)'
-date: 2018-08-20
-category: 'published'
-pdf: '2018-linear-push.pdf'
-bibtex: '2018-linear-push.bib'
-teaser: '2018-linear-push.png'
-permalink: /publication/2018-linear-push
+title: 'Mechanical Search: Multi-Step Retrieval of a Target Object Occluded by Clutter'
+authors: 'Michael Danielczuk*, Andrey Kurenkov*, Ashwin Balakrishna, Matthew Matl, Roberto Martin Martin, Animesh Garg, Silvio Savarase, Ken Goldberg'
+venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
+date: 2019-05-20
+category: 'submitted for publication'
+pdf: '2018-mech-search.pdf'
+permalink: /publication/2018-mech-search
 collection: publications
 ---
 
 Abstract
 -------
-To facilitate automated bin picking when parts cannot be grasped, pushing actions have the potential to separate objects and move them away from bin walls and corners. In the context of the Dexterity Network (Dex-Net) robot grasping framework, we present two novel push policies based on targeting free space and diffusing clusters, and compare them to three earlier policies using four metrics. We evaluate these in simulation using Bullet Physics on a dataset of over 1,000 synthetic pushing scenarios. Pushing outcomes are evaluated by comparing the quality of the best available grasp action before and after each push using analytic grasp metrics. Experiments conducted on scenarios in which Dex-Net could not successfully grasp objects suggest that pushing can increase the probability of executing a successful grasp by more than 15%. Furthermore, in cases where grasp quality can be
-improved, the new policies outperform a quasi-random baseline by nearly 2 times. In physical experiments on an ABB YuMi, the highest performing push policy increases grasp quality by 24%.
+When operating in unstructured environments such as warehouses, homes, and retail centers, robots are frequently required to interactively search for and retrieve specific objects from cluttered bins, shelves, or tables. Distinct from prior work on grasping in clutter, Mechanical Search describes a class of tasks where the number of actions required to locate and extract the target object scales with the size of the clutter set. In this paper we formalize this class and study an instance where distractor objects are heaped over the target object in a bin. The robot uses an RGBD perception system and control policies to iteratively select among, parameterize, and perform 3 actions – push, suction, grasp – until the target object is successfully retrieved. We present a detailed study of 5 algorithmic policies for mechanical search, with over 15,000 simulated trials and 250 physical trials for heap sizes ranging from 10 to 20 objects. Results suggest that success can be achieved in this long-horizon task with algorithmic policies in over 95% of instances and that the number of actions required scales approximately linearly with the size of the clutter set.

@@ -14,12 +14,6 @@ Education
 ------
 * Current EECS Ph.D student in Robotics and Control, UC Berkeley, 2022 (expected)
 * B.S.E in Electrical Engineering (Magna Cum Laude), Princeton University, 2016
-  * GPA: 3.88
-  * Minors in Computer Science, Robotics and Intelligent Systems, and Italian Language
-  * Winner of the [Peter Mark Prize](http://ee.princeton.edu/news/department-presents-class-2016-awards)
-  * Elected to Phi Beta Kappa, Society of Sigma Xi, and Tau Beta Pi
-  * Received the [Dorothea Van Dyke McLane Prize](https://fit.princeton.edu/undergraduate/departmental-prizes)
-  * Elected to Gamma Kappa Alpha (National Italian Honor Society)
 
 Publications
 ------

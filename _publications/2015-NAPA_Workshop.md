@@ -1,7 +1,7 @@
 ---
 title: 'On-Demand Power Source for Medical Electronic Implants: Acousto-Mechanical Vibrations from Human Vocal Folds'
 authors: 'Sophia Chen, Jeff Rosenberg, Ashwin Balakrishna, Grace Ma, Hyunjun Cho, Jeong Oen Lee and Hyuck Choo'
-venue: 'NAPA Institute 2015 Workshop on Enabling Future Health Care: the Role of Micro and Nano Technologies'
+venue: 'NAPA Institute Workshop on Enabling Future Health Care: the Role of Micro and Nano Technologies'
 date: 2015-08-24
 category: 'published'
 pdf: '2015-NAPA_Workshop.pdf'

@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Resume](http://mjd3.github.io/files/Resume_21_10_2018.pdf)
+[Resume](http://abalakrishna123.github.io/files/ResumeAshwinBalakrishna.pdf)
 
 Education
 ------

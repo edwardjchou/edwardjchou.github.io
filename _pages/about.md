@@ -12,3 +12,9 @@ My name is Ashwin Balakrishna, a first year PhD student in Artificial Intelligen
 I am advised by Professor [Ken Goldberg](http://goldberg.berkeley.edu/) of the [UC Berkeley Autolab](http://autolab.berkeley.edu/). My research interests are in developing algorithms for imitation and reinforcement learning that enable robots to decompose and accomplish complex manipulation tasks in a sample efficient way. I got my BS in Electrical Engineering at Caltech in 2018.
 
 I also enjoy watching/playing tennis, hiking, and eating interesting foods.
+
+Recent News
+------
+* Presented a poster on Mechanical Search at the 2018 Bay Area Robotics Symposium at Stanford University
+
+

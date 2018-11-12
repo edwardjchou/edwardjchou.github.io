@@ -8,13 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Mike Danielczuk, and I'm a second-year PhD student in EECS at UC Berkeley.
-I am advised by Professor [Ken Goldberg](http://goldberg.berkeley.edu/) of the [UC Berkeley Autolab](http://autolab.berkeley.edu/).
-My work thus far has focused on robotic perception and manipulation, ranging from instance segmentation to robotic pushing to increase grasp success. Specifically, I am very interested in how we can use simulation to generate large datasets for deep learning methods, thus avoiding expensive hand-labeling. I received my BSE in Electrical Engineering from Princeton University.
+My name is Ashwin Balakrishna, a first year PhD student in Artificial Intelligence at UC Berkeley.
+I am advised by Professor [Ken Goldberg](http://goldberg.berkeley.edu/) of the [UC Berkeley Autolab](http://autolab.berkeley.edu/). My research interests are in developing algorithms for imitation and reinforcement learning that enable robots to decompose and accomplish complex manipulation tasks in a sample efficient way. I got my BS in Electrical Engineering at Caltech in 2018.
 
-I also enjoy running and hiking in the many beautiful California parks around the Berkeley area, and I am an avid New England sports fan.
-
-Recent News
--------
-* *October 23, 2018* : We published a blog post describing some of our recent results on the combination of depth images and deep learning in the [BAIR Blog](https://bair.berkeley.edu/blog/2018/10/23/depth-sensing/).
-* *September 16, 2018* : In collaboration with several other members of the Autolab, I released a new paper on [segmenting unknown 3D objects from real depth images using mask R-CNN trained on synthetic point clouds](https://mjd3.github.io/publication/2018-sdmaskrcnn).
+I also enjoy watching/playing tennis, hiking, and eating interesting foods.

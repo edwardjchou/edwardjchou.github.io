@@ -4,7 +4,7 @@ authors: Jeong Oen Lee, Haeri Park, Juan Du, Vinayak Narasimhan, Ashwin Balakris
 venue: 'ISOT Invited Talk'
 date: 2016-06-05
 category: 'published'
-pdf: '2016-invivo-monitor'
+pdf: '2016-invivo-monitor.pdf'
 teaser: '2016-invivo-monitor.png'
 permalink: /publication/2016-invivo-monitor
 collection: publications

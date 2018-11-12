@@ -12,8 +12,8 @@ redirect_from:
 
 Education
 ------
-* Current EECS Ph.D student in Robotics and Control, UC Berkeley, 2022 (expected)
-* B.S.E in Electrical Engineering (Magna Cum Laude), Princeton University, 2016
+* Current EECS Ph.D student in Artificial Intelligence, UC Berkeley, 2023 (expected)
+* B.S in Electrical Engineering Caltech, 2018
 
 Publications
 ------
@@ -29,14 +29,8 @@ Publications
 
 Work Experience
 ------
-* Virtualapt (July 2016 - August 2017), _Brooklyn, NY_
-  * Head of Electrical Engineering
+* SpaceX (June - September 2017), _Hawthorne, CA_
+  * Built high-fidelity, efficient mathematical models for Falcon 9 Rocket Power System
 
-* MIT Lincoln Laboratory (June - August 2015), _Lexington, MA_
-  * Advanced Imager Technology Intern (Group 87)
-
-* Nufern (June - August 2014), _East Granby, CT_
-  * R&D Laser Intern
-
-* Northeast Utilities (June - August, 2013), _Berlin, CT_
-  * Transmission Protection and Controls Engineering Student Technician
+* Intel (June - September 2016), _Folsom, CA_
+  * Power system analysis for firmware testing

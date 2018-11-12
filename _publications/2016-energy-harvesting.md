@@ -4,7 +4,7 @@ authors: Jeong Oen Lee, Haeri Park, Juan Du, Ashwin Balakrishna, Oliver Chen, Da
 venue: 'IEEE 29th International Conference on Micro Electro Mechanical Systems (MEMS)'
 date: 2016-01-24
 category: 'published'
-pdf: '2016-energy-harvesting'
+pdf: '2016-energy-harvesting.pdf'
 teaser: '2016-energy-harvesting.png'
 permalink: /publication/2016-energy-harvesting
 collection: publications

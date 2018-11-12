@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate TA for Caltech EE 111: Signals and Systems"
+title: "Undergraduate TA for Caltech EE 111 Signals and Systems"
 location: "Pasadena, California"
 ---
 

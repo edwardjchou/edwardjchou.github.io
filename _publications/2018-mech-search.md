@@ -4,7 +4,7 @@ authors: 'Michael Danielczuk*, Andrey Kurenkov*, Ashwin Balakrishna, Matthew Mat
 venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
 date: 2019-05-20
 category: 'submitted'
-pdf: '2018-mech-serach.pdf'
+pdf: '2018-mech-search.pdf'
 teaser: '2018-mech-search.png'
 permalink: /publication/2018-mech-search
 collection: publications

@@ -4,7 +4,7 @@ authors: Jeong Oen Lee, Haeri Park, Juan Du, Ashwin Balakrishna, Oliver Chen, Da
 venue: 'Microsystems and Nanoengineering'
 date: 2017-12-18
 category: 'published'
-pdf: '2017-microscale'
+pdf: '2017-microscale.pdf'
 teaser: '2017-microscale.png'
 permalink: /publication/2017-microscale
 collection: publications

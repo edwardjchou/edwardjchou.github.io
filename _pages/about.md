@@ -13,7 +13,7 @@ I currently work with Professor [Dan Boneh](http://crypto.stanford.edu/~dabo/)
 and Professor [Giancarlo Pellegrino](https://trouge.net/) 
 at the [Stanford Computer Security Laboratory](https://seclab.stanford.edu/). 
 I am also part of the [Stanford Vision and Learning Lab](http://svl.stanford.edu/), specifically in the [Partnership in AI-Assisted Care](https://aicare.stanford.edu/) led by Profesor [Fei-Fei Li](http://vision.stanford.edu/feifeili/) and Professor [Arnold Milstein](https://petersonhealthcare.org/leadership/bio-arnold-milstein).
-I worked with multiple security groups during my undergraduate years at the University of Illinois at Urbana-Champaign, including the [Illinois Security Lab(https://seclab.illinois.edu/) with Professor [Carl Gunter](http://cgunter.cs.illinois.edu/)
+I worked with multiple security groups during my undergraduate years at the University of Illinois at Urbana-Champaign, including the [Illinois Security Lab](https://seclab.illinois.edu/) with Professor [Carl Gunter](http://cgunter.cs.illinois.edu/)
 and the Hatswitch group with Professor [Nikita Borisov](https://hatswitch.org/nikita/).
 
 Research Interests

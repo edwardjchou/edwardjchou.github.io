@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Conference Proceedings
+Conferences
 ======
 
 [SentiNet: Detecting Physical Attacks Against Deep Learning Systems](/publication/SnP_Sentinet)

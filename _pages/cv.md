@@ -26,7 +26,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Work Experience
+Professional Experience
 ------
 * _NVIDIA Corporation_, Software Engineering Intern (May - August 2017)
   * Implemented a crypto-library testing API on Tegra chips, tested protocols including AES, DH, SHA, RSA, ECDSA, ECDH. 

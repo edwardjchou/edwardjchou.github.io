@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ------
-* M.S. in Computer Science, _Stanford University_, 2019 (expected)
-* B.S. in Computer Engineering, _University of Illinois at Urbana-Champaign_, 2017
+* M.S. in Computer Science, _Stanford University_, June 2019 (expected)
+* B.S. in Computer Engineering, _University of Illinois at Urbana-Champaign_, May 2017
 
 Publications
 ------

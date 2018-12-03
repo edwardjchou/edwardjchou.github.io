@@ -15,13 +15,13 @@ Conference Proceedings
 <br/>
 Edward Chou, Florian Tramèr, Giancarlo Pellegrino, Dan Boneh
 <br/>
-IEEE S&P 2019 (In Submission - [arXiv](https://arxiv.org/submit/2492681))
+In Submission ([arXiv](https://arxiv.org/submit/2492681))
 
 [Faster Cryptonets: Leveraging Sparsity for Real-World Encrypted Inference](/publication/SnP_Cryptonet)
 <br/>
 Edward Chou\*, Josh Beal\*, Daniel Levy, Serena Yeung, Albert Haque, Li Fei-Fei
 <br/>
-IEEE S&P 2019 (In Submission - [arXiv](https://arxiv.org/abs/1811.09953))
+In Submission ([arXiv](https://arxiv.org/abs/1811.09953))
 
 [Neural Graph Matching Networks for Fewshot 3D Action Recognition](/publication/ECCV_Fewshot)
 <br/>

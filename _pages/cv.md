@@ -8,29 +8,34 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Resume](http://abalakrishna123.github.io/files/ResumeAshwinBalakrishna.pdf)
 
 Education
 ------
-* Current EECS Ph.D student in Artificial Intelligence, UC Berkeley, 2023 (expected)
-* B.S in Electrical Engineering Caltech, 2018
+* M.S. in Computer Science, _Stanford University_, 2019 (expected)
+* B.S. in Computer Engineering, _University of Illinois at Urbana-Champaign_, 2017
 
 Publications
 ------
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-<!-- Teaching
+  
+Teaching
 ------
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
 
 Work Experience
 ------
-* SpaceX (June - September 2017), _Hawthorne, CA_
-  * Built high-fidelity, efficient mathematical models for Falcon 9 Rocket Power System
-
-* Intel (June - September 2016), _Folsom, CA_
-  * Power system analysis for firmware testing
+* _NVIDIA Corporation_, Software Engineering Intern (May - August 2017)
+  * Implementied a crypto-library testing API on Tegra chips, tests protocols including AES, DH, SHA, RSA, ECDSA, ECDH. 
+  * Created an Internal Signing Utility for the HSM module, writing new utility for NVIDIA signing/encryption according to secure boot ISS 
+  
+* _Intel Corporation_, Software Engineering Intern (May - August 2016)
+  * Worked on integrating CDMA functionality from VIA into Intel modem chips for the Apple iPhone, identifying and removing unused components and fixing build problems
+  * Developed Perl scripts to replace real-time critical calculations, and other fixes like identifying unused software traces, extracting modem commands, and identifying nested semaphores.
+  
+* _Broadcom Corporation_, Software Engineering Intern (June - August 2015)
+  * Worked with WICED Internet of Things development, primarily developed in C, used Gerrit and Git for version control
+  * Developed library APIs for component and IOT protocols tests, 7 APIs deployed with Apple Homekit

@@ -29,7 +29,7 @@ Teaching
 Work Experience
 ------
 * _NVIDIA Corporation_, Software Engineering Intern (May - August 2017)
-  * Implemented a crypto-library testing API on Tegra chips, tests protocols including AES, DH, SHA, RSA, ECDSA, ECDH. 
+  * Implemented a crypto-library testing API on Tegra chips, tested protocols including AES, DH, SHA, RSA, ECDSA, ECDH. 
   * Created an Internal Signing Utility for the HSM module, writing new utility for NVIDIA signing/encryption according to secure boot ISS 
   
 * _Intel Corporation_, Software Engineering Intern (May - August 2016)

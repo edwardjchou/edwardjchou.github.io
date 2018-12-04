@@ -15,7 +15,7 @@ Conferences
 <br/>
 **Edward Chou**, Florian Tramèr, Giancarlo Pellegrino, Dan Boneh
 <br/>
-IEEE S&P 2019 (In Submission - [arXiv](https://arxiv.org/submit/2492681))
+IEEE S&P 2019 (In Submission - [arXiv](http://arxiv.org/abs/1812.00292))
 
 [Faster Cryptonets: Leveraging Sparsity for Real-World Encrypted Inference](/publication/SnP_Cryptonet)
 <br/>

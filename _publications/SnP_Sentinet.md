@@ -1,5 +1,5 @@
 ---
-title: '[SentiNet: Detecting Physical Attacks Against Deep Learning Systems](https://arxiv.org/submit/2492681)'
+title: '[SentiNet: Detecting Physical Attacks Against Deep Learning Systems](http://arxiv.org/abs/1812.00292)'
 authors: 'Edward Chou, Florian Tramèr, Giancarlo Pellegrino, Dan Boneh'
 venue: 'IEEE Security & Privacy'
 date: 2018-12-01

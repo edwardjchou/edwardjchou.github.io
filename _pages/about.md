@@ -22,5 +22,6 @@ I have explored core computer vision problems such as [fewshot learning](/public
 Recent News
 ------
 * Coming soon - our work completed during my internship at Microsoft Research was accepted at ICASSP 2020.
+* Our work Sentinet will be presented at DLS 2020.
 
 

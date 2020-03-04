@@ -28,10 +28,10 @@ Teaching
 
 Professional Experience
 ------
-*_Facebook_, Software Engineer (July 2019 - Present)
+* _Facebook_, Software Engineer (July 2019 - Present)
   * In Facebook AI Applied Research, Computer Vision
 
-*_Microsoft Research_, Research Intern (April - June 2019)
+* _Microsoft Research_, Research Intern (April - June 2019)
   * Researched multimodal techniques for web phishing classification and homomorphic encryption for efficient private inference
   * Work published at ICCASP 2020
 

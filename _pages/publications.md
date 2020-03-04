@@ -11,11 +11,10 @@ redirect_from:
 Conferences
 ======
 
-[SentiNet: Detecting Physical Attacks Against Deep Learning Systems](/publication/SnP_Sentinet)
+Privacy-Preserving Phishing Web Page Classification via Fully Homomorphic Encryption
 <br/>
-**Edward Chou**, Florian Tramèr, Giancarlo Pellegrino, Dan Boneh
-<br/>
-IEEE S&P 2019 (In Submission - [arXiv](http://arxiv.org/abs/1812.00292))
+**Edward Chou**, Arun Gururajan, Kim Laine, Nitin Kumar Goel, Anna Bertiger, Jack W. Stokes
+ICASSP 2020 (Work completed at MSR)
 
 [Faster Cryptonets: Leveraging Sparsity for Real-World Encrypted Inference](/publication/SnP_Cryptonet)
 <br/>
@@ -55,6 +54,11 @@ ACM CCS 2016 ([pdf](http://seclab.illinois.edu/wp-content/uploads/2016/10/CCS_20
 
 Workshops
 ======
+[SentiNet: Detecting Physical Attacks Against Deep Learning Systems](/publication/SnP_Sentinet)
+<br/>
+**Edward Chou**, Florian Tramèr, Giancarlo Pellegrino, Dan Boneh
+<br/>
+DLS 2020 [arXiv](http://arxiv.org/abs/1812.00292))
 
 [Privacy-Preserving Action Recognition for Smart Hospitals using Low-Resolution Depth Images](/publication/NIPS_ML4H_LowRes)
 <br/>

@@ -51,7 +51,7 @@ ECCV 2018 ([pdf](http://svl.stanford.edu/assets/papers/liu2018eccv.pdf))
 <br/>
 **Edward Chou**\*, Josh Beal\*, Daniel Levy, Serena Yeung, Albert Haque, Li Fei-Fei
 <br/>
-Link - [arXiv](https://arxiv.org/abs/1811.09953))
+Link - [arXiv](https://arxiv.org/abs/1811.09953)
 
 [3D Point Cloud-Based Visual Prediction of ICU Mobility Care Activities](/publication/MLHC_ICU)
 <br/>

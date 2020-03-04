@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ------
-* M.S. in Computer Science, _Stanford University_, June 2019 (expected)
+* M.S. in Computer Science, _Stanford University_, March 2019
 * B.S. in Computer Engineering, _University of Illinois at Urbana-Champaign_, May 2017
 
 Publications
@@ -28,6 +28,13 @@ Teaching
 
 Professional Experience
 ------
+*_Facebook_, Software Engineer (July 2019 - Present)
+  * In Facebook AI Applied Research, Computer Vision
+
+*_Microsoft Research_, Research Intern (April - June 2019)
+  * Researched multimodal techniques for web phishing classification and homomorphic encryption for efficient private inference
+  * Work published at ICCASP 2020
+
 * _NVIDIA Corporation_, Software Engineering Intern (May - August 2017)
   * Implemented a crypto-library testing API on Tegra chips, tested protocols including AES, DH, SHA, RSA, ECDSA, ECDH. 
   * Created an Internal Signing Utility for the HSM module, writing new utility for NVIDIA signing/encryption according to secure boot ISS 

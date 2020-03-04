@@ -21,7 +21,7 @@ ICASSP 2020 (Work completed at MSR)
 <br/>
 **Edward Chou**, Florian Tramèr, Giancarlo Pellegrino, Dan Boneh
 <br/>
-DLS 2020 [arXiv](http://arxiv.org/abs/1812.00292)
+DLS 2020 (Link - [arXiv](http://arxiv.org/abs/1812.00292))
 
 [Privacy-Preserving Action Recognition for Smart Hospitals using Low-Resolution Depth Images](/publication/NIPS_ML4H_LowRes)
 <br/>

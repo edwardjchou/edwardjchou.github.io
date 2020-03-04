@@ -8,9 +8,6 @@ redirect_from:
 
 {% include base_path %}
 
-Conferences
-======
-
 Privacy-Preserving Phishing Web Page Classification via Fully Homomorphic Encryption
 <br/>
 **Edward Chou**, Arun Gururajan, Kim Laine, Nitin Kumar Goel, Anna Bertiger, Jack W. Stokes
@@ -47,12 +44,6 @@ Bingbin Liu, Serena Yeung, **Edward Chou**, De-An Huang, Li Fei-Fei, Juan-Carlos
 <br/>
 ECCV 2018 ([pdf](http://svl.stanford.edu/assets/papers/liu2018eccv.pdf))
 
-[Faster Cryptonets: Leveraging Sparsity for Real-World Encrypted Inference](/publication/SnP_Cryptonet)
-<br/>
-**Edward Chou**\*, Josh Beal\*, Daniel Levy, Serena Yeung, Albert Haque, Li Fei-Fei
-<br/>
-Link - [arXiv](https://arxiv.org/abs/1811.09953)
-
 [3D Point Cloud-Based Visual Prediction of ICU Mobility Care Activities](/publication/MLHC_ICU)
 <br/>
 Bingbin Liu\*, Michelle Guo\*, **Edward Chou**, Rishab Mehra, Serena Yeung, N. Lance Downing, Francesca Salipur, Jeffrey Jopling, Brandi Campbell, Kayla Deru, William Beninati, Arnold Milstein, Li Fei-Fei
@@ -70,6 +61,12 @@ PETS 2018 ([link](https://content.sciendo.com/view/journals/popets/2018/1/articl
 Avesta Hojjati, Anku Adhikari, Katarina Struckmann, **Edward J. Chou**, Thi Ngoc Tho Nguyen, Kushagra Madan, Marianne S. Winslett, Carl A. Gunter, William P. King
 <br/>
 ACM CCS 2016 ([pdf](http://seclab.illinois.edu/wp-content/uploads/2016/10/CCS_2016___3D_Printer.pdf))
+
+[Faster Cryptonets: Leveraging Sparsity for Real-World Encrypted Inference](/publication/SnP_Cryptonet)
+<br/>
+**Edward Chou**\*, Josh Beal\*, Daniel Levy, Serena Yeung, Albert Haque, Li Fei-Fei
+<br/>
+Link - [arXiv](https://arxiv.org/abs/1811.09953)
 
 [A Fully Private Pipeline for Deep Learning on Electronic Health Records](/publication/manuscript_pipeline)
 <br/>

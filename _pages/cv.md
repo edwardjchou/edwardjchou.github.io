@@ -13,19 +13,7 @@ Education
 ------
 * M.S. in Computer Science, _Stanford University_, March 2019
 * B.S. in Computer Engineering, _University of Illinois at Urbana-Champaign_, May 2017
-
-Publications
-------
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
-------
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Professional Experience
 ------
 * _Facebook_, Software Engineer (July 2019 - Present)

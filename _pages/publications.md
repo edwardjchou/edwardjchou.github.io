@@ -14,6 +14,7 @@ Conferences
 Privacy-Preserving Phishing Web Page Classification via Fully Homomorphic Encryption
 <br/>
 **Edward Chou**, Arun Gururajan, Kim Laine, Nitin Kumar Goel, Anna Bertiger, Jack W. Stokes
+<br/>
 ICASSP 2020 (Work completed at MSR)
 
 [Faster Cryptonets: Leveraging Sparsity for Real-World Encrypted Inference](/publication/SnP_Cryptonet)

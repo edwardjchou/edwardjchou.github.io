@@ -19,7 +19,7 @@ ICASSP 2020 (Work completed at MSR)
 
 [SentiNet: Detecting Physical Attacks Against Deep Learning Systems](/publication/SnP_Sentinet)
 <br/>
-**Edward Chou**, Florian Tramèr, Giancarlo Pellegrino, Dan Boneh
+**Edward Chou**, Florian Tramèr, Giancarlo Pellegrino
 <br/>
 DLS 2020 (Link - [arXiv](http://arxiv.org/abs/1812.00292))
 
